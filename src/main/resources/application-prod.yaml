@@ -1,0 +1,6 @@
+#生产环境
+user:
+  db:
+    host: http://xxxx # 修改为真实上线后的mysql的地址
+    port: 3306 # 修改mysql的端口
+    pw: 123456 # 修改MySQL密码

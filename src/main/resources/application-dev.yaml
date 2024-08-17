@@ -1,0 +1,6 @@
+#开发环境
+user:
+  db:
+    host: localhost # 修改为你自己mysql的地址
+    port: 3306 # 修改为自己的mysql的端口
+    pw: 123456 # 修改为MySQL密码
